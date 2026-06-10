@@ -5,7 +5,7 @@ import (
 	"context"
 	"log"
 
-	myapp "suraj/schema/models" // Import your generated models folder
+	myapp "suraj/avro" // Import your generated models folder
 
 	"github.com/twmb/franz-go/pkg/kgo"
 )
